@@ -137,7 +137,7 @@ static struct dio_out_info d_outputs[DOUT_NUM] = {
         // LED 2
         .name = "LED_2",
         .port = DIO_PORT_A,
-        .pin = DIO_PIN_5,
+        .pin = DIO_PIN_6,
         .pull = DIO_PULL_NO,
         .init_value = 0,
         .speed = DIO_SPEED_FREQ_LOW,
